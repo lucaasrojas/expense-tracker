@@ -1,0 +1,15 @@
+.date__card{
+    border: 1px solid;
+border-radius: 10px;
+background: #fff;
+padding: 5px;
+}
+
+.date__day {
+font-size: 40px;
+
+}
+
+.date__month_year {
+font-size: 15px;
+}

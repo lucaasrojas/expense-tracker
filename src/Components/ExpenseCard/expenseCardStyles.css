@@ -1,0 +1,18 @@
+.expense__item {
+    background: #eaeaea;
+border: 1px solid #cacaca;
+border-radius: 5px;
+padding: 10px;
+margin-bottom: 10px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.expenses__list {
+    margin-top: 10px;
+}
+
+.expense__detail {
+    font-size: 22px;
+}

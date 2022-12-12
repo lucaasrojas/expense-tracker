@@ -1,0 +1,43 @@
+.input__wrapper {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.chart__wrapper {
+    display: flex;
+    justify-content: space-between;
+    border: none;
+    padding: 0;
+}
+
+section{
+    background-color: #f2f2f2;
+    color: #282c34;
+    border-radius: 20px;
+    border: 3px solid black;
+    padding: 20px;
+    max-width: 720px;
+    margin: auto;
+}
+
+button {
+    background: #fff;
+box-shadow: none;
+border: 1px solid #cacaca;
+border-radius: 5px;
+padding: 5px 10px;
+font-size: 14px;
+height: 30px;
+}
+
+form {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.form__inputs_wrapper {
+    display: flex;
+    gap: 10px;
+}
