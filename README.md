@@ -1,4 +1,4 @@
-#Expense tracker
+# Expense tracker
 
 Link: https://lucaasrojas-expense-tracker.netlify.app
 
